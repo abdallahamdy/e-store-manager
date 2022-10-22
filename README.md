@@ -13,7 +13,7 @@ An application that helps manage an ecommerce store's database through APIs.
 https://github.com/abdallahamdy/e-store-manager
 
 ## Tutorial Video:
-
+https://watch.screencastify.com/v/gdsE8kiAJRsXF3eUBVa1
 
 ## Author:
 Abdalla Hamdy%
