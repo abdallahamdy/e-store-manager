@@ -16,4 +16,4 @@ https://github.com/abdallahamdy/e-store-manager
 https://watch.screencastify.com/v/gdsE8kiAJRsXF3eUBVa1
 
 ## Author:
-Abdalla Hamdy%
+Abdalla Hamdy
